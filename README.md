@@ -64,7 +64,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 **Mayur Mhatre**
 
 - GitHub: [@Mayur-Mhatre](https://github.com/Mayur-Mhatre/)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/mayurmhatre/)
+- LinkedIn: [@MayurMhatre](https://www.linkedin.com/in/mayurmhatre/)
 
 ---
 
