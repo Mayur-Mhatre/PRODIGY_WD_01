@@ -48,7 +48,7 @@ cd responsive-landing-page
 
 ## 📸 Screenshots
 
-![Landing Page](img/landing_page_screenshot.jpg)
+![Landing Page](img/landing_page_screenshot.png)
 
 ## 📝 License
 
