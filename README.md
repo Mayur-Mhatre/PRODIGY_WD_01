@@ -1,6 +1,6 @@
-# Responsive Landing Page with Interactive Navigation 🖥️
+# PRODIGY_WD_01
 
-Welcome to the **Responsive Landing Page** project! This repository showcases a modern, responsive landing page designed with an interactive navigation menu that enhances user experience through dynamic styling and seamless interactivity.
+Welcome to the **Responsive Landing Page with Interactive Navigation 🖥️** project! This repository showcases a modern, responsive landing page designed with an interactive navigation menu that enhances user experience through dynamic styling and seamless interactivity.
 
 ## 🚀 Project Overview
 
