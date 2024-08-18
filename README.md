@@ -23,9 +23,13 @@ This project is built using:
 ## 📂 Project Structure
 
 ├── index.html # Main HTML file
+\
 ├── styles.css # CSS file for styling
+\
 ├── script.js # JavaScript file for interactivity
+\
 └── img/ # Folder for images, icons, and other assets
+\
 
 ## 🔧 Installation
 
