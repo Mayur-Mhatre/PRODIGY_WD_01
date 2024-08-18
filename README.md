@@ -29,7 +29,6 @@ This project is built using:
 ├── script.js # JavaScript file for interactivity
 \
 └── img/ # Folder for images, icons, and other assets
-\
 
 ## 🔧 Installation
 
