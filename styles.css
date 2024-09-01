@@ -40,6 +40,7 @@ body {
     font-size: 24px;
     font-weight: bold;
     color: #e79456;
+    transition: color 0.3s ease;
 }
 
 .nav-list {
@@ -64,6 +65,10 @@ body {
 
 .navbar.scrolled {
     background-color: #e79456;
+}
+
+.navbar.scrolled .logo {
+    color: #333; /* Gray color */
 }
 
 .navbar.scrolled .nav-item a {
