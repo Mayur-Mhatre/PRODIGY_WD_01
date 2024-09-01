@@ -34,7 +34,7 @@ This project is built using:
 `git clone https://github.com/Mayur-Mhatre/PRODIGY_WD_01.git`
 
 2. Navigate to the project directory:
-cd responsive-landing-page
+cd PRODIGY_WD_01
 
 3. Open `index.html` in your preferred web browser.
 
